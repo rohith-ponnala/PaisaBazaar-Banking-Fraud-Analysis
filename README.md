@@ -14,4 +14,4 @@ It automates risk assessment, detects fraud, and improves financial decision-mak
 ### 🚀 How to Run
 1. Clone this repo  
    ```bash
-   git clone https://github.com/your-username/PaisaBazaar-Banking-Fraud-Analysis.git
+   git clone https://github.com/rohith-ponnala/PaisaBazaar-Banking-Fraud-Analysis.git
